@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pieceofcake",
+  "name": "Piece of Cake",
+  "description": "Adds stackable slices of cake!",
+    "version": "1.0",
+  "mcversion": "[1.12.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["beeshroom"],
+  "credits": "",
+  "logoFile": "assets/pieceofcake/textures/CAKESLICE.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
