@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+           "item": "pieceofcake:cake_slice"
+     },
+      {
+           "item": "pieceofcake:cake_slice"
+     },
+      {
+            "item": "pieceofcake:cake_slice"
+     },
+      {
+            "item": "pieceofcake:cake_slice"
+     },
+      {
+         "item": "pieceofcake:cake_slice"
+     },
+      {
+            "item": "pieceofcake:cake_slice"
+      },
+     {
+            "item": "pieceofcake:cake_slice"
+     }
+   ],
+   "result":
+   {
+      "item": "minecraft:cake",
+     "count": 1
+   }
+}

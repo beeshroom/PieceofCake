@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-        "layer0": "pieceofcake:items/cake_slice"
-}
-}
