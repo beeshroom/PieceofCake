@@ -1,13 +1,13 @@
 package pieceofcake;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
 
 public class CakeSliceItem extends Item
 {
-    public CakeSliceItem(Item.Properties p_i225737_1_)
+    public CakeSliceItem(Item.Properties properties)
     {
-        super(p_i225737_1_);
+        super(properties);
     }
 
     public int getUseDuration(ItemStack p_77626_1_)
